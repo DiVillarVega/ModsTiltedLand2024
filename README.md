@@ -1,6 +1,8 @@
 # ModsTiltedLand2024
 Todos los mods del servidor de minecraft 1.18.2 para la TiltedsCave
 
+¡LA IP DEL SERVIDOR SE IRÁ ACTUALIZANDO DIARIO EN EL SERVIDOR DE DISCORD!
+
 ANTES DE EMPEZAR:
 -Descargar: https://bell-sw.com/pages/downloads/#jdk-17-lts (Package: FULL JDK y luego el archivo MSI)
 -Minecraft no premium launcher (SI ASÍ LO REQUIERES): https://launcherfenix.com.ar/wope/
