@@ -16,4 +16,12 @@ TUTORIAL PARA INSTALAR TODO PASO A PASO:
 4.-Presionan teclas Windows+R y escriben "%appdata%", luego van a ".minecraft" después a carpeta "mods" y mueven todos los mods descargados dentro (sin abrir ni ejecutar ninguno, solo los mueven y ya)
 5.-Abren el minecraft y ejecutan la versión de forge que instalaron en el primero paso (esta debería aparecer por defecto en su cliente minecraft, si no, van a tener que buscarla, tiene el mismo nombre)
 6.-Disfruta del servidor :D
+
 **NOTA: INTENTARÉ GRABAR UN VIDEO MOSTRANDO TODO POR SI A ALGUNO LE CUESTA MÁS**
+
+El servidor tiene plugins de:
+-Skins
+-TP/Home
+
+El servidor tiene mods de:
+(Lista en progreso)
